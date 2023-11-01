@@ -1,10 +1,9 @@
 # Character-n-Token-Calculator
 
-# Text Metrics Dashboard
 
 ## Overview
 
-Token &amp; Text Metrics Dashboard is a simple yet powerful desktop application built in Python. The application serves as a utility tool to monitor various text metrics in real-time like Token Count, Keystroke count, and other metrics like:
+Characters n' Token Calculator is a simple and lightweight desktop application built in Python. The application serves as a utility tool to monitor various text metrics in real-time like Token Count, Keystroke count, and other metrics like:
 
 - **Token Count**: Number of tokens in the clipboard.
 - **Character Count**: Number of characters in the clipboard.
@@ -35,13 +34,13 @@ Users can also export these metrics to a CSV file for later analysis. Metrics ca
 1. Clone this repository.
 
 \`\`\`bash
-git clone https://github.com/your-username/Text-Metrics-Dashboard.git
+git clone https://github.com/AcidAlchamy/Character-n-Token-Calculator.git
 \`\`\`
 
 2. Navigate to the project folder.
 
 \`\`\`bash
-cd Text-Metrics-Dashboard
+cd Character-n-Token-Calculator
 \`\`\`
 
 3. Install the required packages.
