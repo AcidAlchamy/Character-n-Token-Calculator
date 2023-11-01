@@ -6,6 +6,7 @@ from csv_exporter import export_to_csv
 from config_handler import save_config, load_config
 from pynput import keyboard
 import time
+import sys
 
 history = []
 prev_clipboard_content = ""
