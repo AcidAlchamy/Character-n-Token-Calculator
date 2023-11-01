@@ -117,3 +117,5 @@ clipboard_polling()
 with keyboard.Listener(on_press=on_press) as listener:
     root.mainloop()
     listener.join()
+
+#thanks
